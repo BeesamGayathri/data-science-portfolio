@@ -28,7 +28,7 @@ I focus on developing practical solutions, deploying models, and continuously st
 
 ## 📂 Projects
 
-### 📰 Fake News Classification
+### 📰 Fake News Detection
 A Machine Learning and NLP-based application that predicts whether a news article is **Real** or **Fake**.
 
 **Key Highlights:**
@@ -59,6 +59,7 @@ https://fake-news-detection-genai-affemcburdaahsrthtucvy.streamlit.app/
 
 - **GitHub:** https://github.com/BeesamGayathri  
 - **LinkedIn:** https://linkedin.com/in/beesam-gayathri  
+
 
 
 
