@@ -1,32 +1,64 @@
-# Fake News Detection with GenAI
+# 📊 Data Science & Machine Learning Portfolio
 
-This project demonstrates a **Fake News Detection system** using Python, scikit-learn, and a simple machine learning model. The model predicts whether a news text is **Real News 📰** or **Fake News ❌**.
+Welcome to my Data Science portfolio!  
+I am an aspiring Data Scientist with a strong interest in Machine Learning, NLP, and building real-world, end-to-end AI applications.
 
----
-
-## 📁 Project Structure
-
+This repository highlights my hands-on projects, practical skills, and applied knowledge in data science and machine learning.
 
 ---
 
-## 🛠️ How to Run
+## 👩‍💻 About Me
 
-1. Clone the repository or download it to your local machine.
-2. Install dependencies:
+I am passionate about transforming data into actionable insights using Machine Learning and AI.  
+I focus on developing practical solutions, deploying models, and continuously strengthening my data science foundations.
 
-```bash
-pip install -r requirements.txt
-predict_news("Your news text here")
-## 📊 Dataset
+---
 
-- CSV file: `data/fake_news.csv`  
-- Columns:
-  - `text` → news content  
-  - `label` → 1 = Real, 0 = Fake  
+## 🛠 Skills
 
-Example rows:
+- **Programming & Analysis:** Python, SQL  
+- **Data Handling:** Pandas, NumPy  
+- **Machine Learning:** Scikit-learn, Classification Models  
+- **Natural Language Processing:** TF-IDF, Text Classification  
+- **Deployment:** Streamlit  
+- **Version Control:** Git, GitHub  
+- **Visualization:** Matplotlib, Seaborn  
 
-| text                                  | label |
-|---------------------------------------|-------|
-| Government launches new AI initiative | 1     |
-| Celebrity endorses miracle diet       | 0     |
+---
+
+## 📂 Projects
+
+### 📰 Fake News Classification
+A Machine Learning and NLP-based application that predicts whether a news article is **Real** or **Fake**.
+
+**Key Highlights:**
+- Text vectorization using **TF-IDF**
+- Classification using **Logistic Regression**
+- Trained model and vectorizer saved for reuse
+- Interactive **Streamlit web application**
+- Complete end-to-end ML pipeline
+
+🔗 **GitHub Repository:**  
+https://github.com/BeesamGayathri/fake-news-detection-genai
+
+🌐 **Live Application:**  
+https://fake-news-detection-genai-affemcburdaahsrthtucvy.streamlit.app/
+
+---
+
+## 🎯 Career Focus
+
+- Data Science  
+- Machine Learning Engineering  
+- NLP & Applied AI  
+- Entry-level / Fresher Data Scientist roles  
+
+---
+
+## 📫 Contact
+
+- **GitHub:** https://github.com/BeesamGayathri  
+- **LinkedIn:** https://linkedin.com/in/beesam-gayathri  
+
+
+
