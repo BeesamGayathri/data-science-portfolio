@@ -1,8 +1,7 @@
 # Gayathri Beesam – Data Science Portfolio 👩‍💻
 
 ## About Me
-Aspiring Data Scientist and Machine Learning Enthusiast.
-I enjoy working on real-world data problems and building machine learning models with end-to-end deployment.
+Aspiring Data Scientist and Machine Learning Enthusiast with a passion for solving real-world problems using data. I enjoy building end-to-end machine learning solutions, from data preprocessing to model deployment.
 
 ## Skills
 - Python
@@ -13,10 +12,15 @@ I enjoy working on real-world data problems and building machine learning models
 - Streamlit
 
 ## Projects
-1. Fake News Classification 📰
-2. Customer Churn Prediction 📊
-3. Recommendation System 🎯
+- **Fake News Classification 📰**  
+  Machine learning model to classify news as real or fake with a Streamlit web app.
+
+- **Customer Churn Prediction 📊**  
+  Predicts customer churn using classification algorithms.
+
+- **Recommendation System 🎯**  
+  Personalized recommendation system based on user behavior.
 
 ## Contact
-- GitHub: https://github.com/gayathri-genai
-- LinkedIn: http://linkedin.com/in/beesam-gayathri
+- GitHub: https://github.com/gayathri-genai  
+- LinkedIn: https://linkedin.com/in/beesam-gayathri
