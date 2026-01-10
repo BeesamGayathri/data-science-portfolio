@@ -9,20 +9,23 @@ This repository highlights my hands-on projects, practical skills, and applied k
 
 ## 👩‍💻 About Me
 
-I am passionate about transforming data into actionable insights using Machine Learning and AI.  
-I focus on developing practical solutions, deploying models, and continuously strengthening my data science foundations.
+I am an aspiring Data Scientist with hands-on experience in Python, Machine Learning,
+and NLP. I have built end-to-end ML projects including data preprocessing,
+model training, evaluation, and deployment using Streamlit.
+
+I am actively seeking entry-level Data Scientist or Machine Learning Engineer roles.
 
 ---
 
-## 🛠 Skills
+## 🛠️ Technical Skills
 
-- **Programming & Analysis:** Python, SQL  
-- **Data Handling:** Pandas, NumPy  
-- **Machine Learning:** Scikit-learn, Classification Models  
-- **Natural Language Processing:** TF-IDF, Text Classification  
-- **Deployment:** Streamlit  
-- **Version Control:** Git, GitHub  
-- **Visualization:** Matplotlib, Seaborn  
+- Programming: Python
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Machine Learning: Scikit-learn
+- NLP: TF-IDF, Text Classification
+- Deployment: Streamlit
+- Tools: GitHub, Jupyter Notebook, Google Colab
 
 ---
 
@@ -37,6 +40,12 @@ A Machine Learning and NLP-based application that predicts whether a news articl
 - Trained model and vectorizer saved for reuse
 - Interactive **Streamlit web application**
 - Complete end-to-end ML pipeline
+
+### Key Learnings
+- How to preprocess text data for ML
+- Feature extraction using TF-IDF
+- Building and evaluating classification models
+- Deploying ML models using Streamlit
 
 🔗 **GitHub Repository:**  
 https://github.com/BeesamGayathri/fake-news-detection-genai
@@ -59,6 +68,7 @@ https://fake-news-detection-genai-affemcburdaahsrthtucvy.streamlit.app/
 
 - **GitHub:** https://github.com/BeesamGayathri  
 - **LinkedIn:** https://linkedin.com/in/beesam-gayathri  
+
 
 
 
