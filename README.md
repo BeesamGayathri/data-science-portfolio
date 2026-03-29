@@ -1,66 +1,133 @@
-# 📊 Data Science & Machine Learning Portfolio
+# 👩‍💻 Beesam Gayathri – Data Science Portfolio
 
-Welcome to my Data Science portfolio!  
-I am an aspiring Data Scientist with a strong interest in Machine Learning, NLP, and building real-world, end-to-end AI applications.
-
-This repository highlights my hands-on projects, practical skills, and applied knowledge in data science and machine learning.
+Aspiring Data Scientist and Machine Learning Enthusiast with hands-on experience in building end-to-end AI/ML and Data Analytics projects — from data preprocessing to model training and deployment.
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-I am an aspiring Data Scientist with hands-on experience in Python, Machine Learning,
-and NLP. I have built end-to-end ML projects including data preprocessing,
-model training, evaluation, and deployment using Streamlit.
+I am passionate about **Data Science, Machine Learning, and NLP**, with practical experience in:
 
-I am actively seeking entry-level Data Scientist or Machine Learning Engineer roles.
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning Model Development  
+- Data Visualization  
+- Web App Deployment using Streamlit  
+
+I am actively looking for **entry-level Data Scientist / ML Engineer roles**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- Programming: Python
-- Data Analysis: Pandas, NumPy
-- Visualization: Matplotlib, Seaborn
-- Machine Learning: Scikit-learn
-- NLP: TF-IDF, Text Classification
-- Deployment: Streamlit
-- Tools: GitHub, Jupyter Notebook, Google Colab
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy  
+- **Machine Learning:** Scikit-learn, Supervised Learning, Feature Engineering  
+- **Visualization:** Matplotlib, Seaborn  
+- **Deployment:** Streamlit  
+- **Version Control:** Git, GitHub  
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-### 📰 Fake News Detection
-A Machine Learning and NLP-based application that predicts whether a news article is **Real** or **Fake**.
+---
 
-**Key Highlights:**
-- Text vectorization using **TF-IDF**
-- Classification using **Logistic Regression**
-- Trained model and vectorizer saved for reuse
-- Interactive **Streamlit web application**
-- Complete end-to-end ML pipeline
+## 🏏 Cricket Performance Analysis Dashboard (EDA Project)
 
-### Key Learnings
-- How to preprocess text data for ML
-- Feature extraction using TF-IDF
-- Building and evaluating classification models
-- Deploying ML models using Streamlit
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
-🔗 **GitHub Repository:**  
-https://github.com/BeesamGayathri/fake-news-detection-genai
+### 🌐 Live App
+https://cricket-performance-analysis.streamlit.app/
 
-🌐 **Live Application:**  
+---
+
+### 🎯 Project Overview
+
+An interactive **data analytics dashboard** built to analyze cricket player performance using real-world data.  
+The project focuses on converting raw data into meaningful insights using EDA techniques.
+
+---
+
+### ✨ Features
+
+- Interactive dashboard UI  
+- Player search functionality  
+- Country-based filtering  
+- Key performance metrics:
+  - 🏏 Total Runs  
+  - 📊 Batting Average  
+  - ⚡ Strike Rate  
+
+---
+
+### 📊 Key Insights
+
+- Identify top-performing players  
+- Compare performance across countries  
+- Analyze aggressive vs consistent players  
+- Discover batting performance trends  
+
+---
+
+### 🛠️ Tech Stack
+
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Streamlit  
+
+---
+
+### 🎥 Project Demo
+
+<p align="center">
+  <img src="demo.gif" width="650" alt="Cricket Dashboard Demo">
+</p>
+
+---
+
+### 🔮 Future Enhancements
+
+- Player vs Player comparison  
+- Machine Learning predictions  
+- Dark mode UI  
+- Export/download reports  
+
+---
+
+## 📰 Fake News Detection (NLP Project)
+
+![Status](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge)
+
+### 🌐 Live App
 https://fake-news-detection-genai-affemcburdaahsrthtucvy.streamlit.app/
 
 ---
 
-## 🎯 Career Focus
+### 🎯 Project Overview
 
-- Data Science  
-- Machine Learning Engineering  
-- NLP & Applied AI  
-- Entry-level / Fresher Data Scientist roles  
+A Machine Learning and NLP-based classification system that predicts whether a news article is **Real or Fake**.
+
+---
+
+### ✨ Features
+
+- Text preprocessing & cleaning  
+- TF-IDF feature extraction  
+- Logistic Regression model  
+- Streamlit web deployment  
+
+---
+
+### 🛠️ Tech Stack
+
+- Python  
+- Pandas, Scikit-learn  
+- NLP (TF-IDF)  
+- Streamlit  
 
 ---
 
@@ -69,7 +136,8 @@ https://fake-news-detection-genai-affemcburdaahsrthtucvy.streamlit.app/
 - **GitHub:** https://github.com/BeesamGayathri  
 - **LinkedIn:** https://linkedin.com/in/beesam-gayathri  
 
+---
 
+## ⭐ Final Note
 
-
-
+This portfolio is continuously evolving as I build more real-world projects and strengthen my skills in Data Science, Machine Learning, and AI.
