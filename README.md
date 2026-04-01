@@ -112,6 +112,11 @@ https://fake-news-detection-genai-affemcburdaahsrthtucvy.streamlit.app/
 A Machine Learning and NLP-based classification system that predicts whether a news article is **Real or Fake**.
 
 ---
+## 🎥 App Demo  
+
+<p align="center">
+  <img src="demo.gif" width="600"/>
+</p>
 
 ### ✨ Features
 
