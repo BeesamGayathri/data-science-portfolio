@@ -80,18 +80,15 @@ The project focuses on converting raw data into meaningful insights using EDA te
 - Streamlit  
 
 ---
----
 ## 🎥 App Demo  
 
 <p align="center">
-  <img src="demo.gif" width="650" alt="Cricket EDA Dashboard Demo">
+  <img src="https://raw.githubusercontent.com/BeesamGayathri/YOUR-REPO-NAME/main/demo.gif" width="700" alt="Cricket Dashboard Demo">
 </p>
 
 <p align="center">
   🏏 Interactive Cricket Data Analysis Dashboard
 </p>
----
-
 ### 🔮 Future Enhancements
 
 - Player vs Player comparison  
