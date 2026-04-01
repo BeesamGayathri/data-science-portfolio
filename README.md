@@ -115,9 +115,12 @@ A Machine Learning and NLP-based classification system that predicts whether a n
 ## 🎥 App Demo  
 
 <p align="center">
-  <img src="demo.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/BeesamGayathri/fake-news-detection-genai/main/demo.gif" width="700" alt="Fake News Detection Demo">
 </p>
 
+<p align="center">
+  📰 Fake News Detection Web App
+</p>
 ### ✨ Features
 
 - Text preprocessing & cleaning  
