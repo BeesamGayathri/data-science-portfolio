@@ -83,7 +83,7 @@ The project focuses on converting raw data into meaningful insights using EDA te
 ## 🎥 App Demo  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BeesamGayathri/YOUR-REPO-NAME/main/demo.gif" width="700" alt="Cricket Dashboard Demo">
+  <img src="https://raw.githubusercontent.com/BeesamGayathri/data-science-portfolio/main/Cricket_EDA_Project/demo.gif" width="700" alt="Cricket Dashboard Demo">
 </p>
 
 <p align="center">
